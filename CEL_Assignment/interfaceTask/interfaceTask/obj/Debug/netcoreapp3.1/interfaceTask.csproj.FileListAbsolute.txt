@@ -1,0 +1,13 @@
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.exe
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.deps.json
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.runtimeconfig.json
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.runtimeconfig.dev.json
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.dll
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\bin\Debug\netcoreapp3.1\interfaceTask.pdb
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.csproj.AssemblyReference.cache
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.AssemblyInfoInputs.cache
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.AssemblyInfo.cs
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.dll
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.pdb
+C:\Users\Arif Istiaq\source\repos\interfaceTask\interfaceTask\obj\Debug\netcoreapp3.1\interfaceTask.genruntimeconfig.cache

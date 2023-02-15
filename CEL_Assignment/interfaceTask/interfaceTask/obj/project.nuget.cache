@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GA3tk01627MKvYNTCNsBo8e8lFTHAooQDzHbRNcM+OX8WrKHXNgZULRAZcFtVqItwRNwCTIH07tf1kw693oMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arif Istiaq\\source\\repos\\interfaceTask\\interfaceTask\\interfaceTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arif Istiaq\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
