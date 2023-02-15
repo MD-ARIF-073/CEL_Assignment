@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvuTA1bs7OjZH5Ntimp4n+I8d41hSUCgpmM8RZQ4MZfSqfYak66kd9/XnIy5JVe98o3SGXe1vJLPdkvmtyb38Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arif Istiaq\\source\\repos\\AbstractTask\\AbstractTask\\AbstractTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arif Istiaq\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

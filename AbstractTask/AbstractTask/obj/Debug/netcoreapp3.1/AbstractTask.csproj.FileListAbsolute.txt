@@ -1,0 +1,13 @@
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.exe
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.deps.json
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.runtimeconfig.json
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.runtimeconfig.dev.json
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.dll
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\bin\Debug\netcoreapp3.1\AbstractTask.pdb
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.csproj.AssemblyReference.cache
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.AssemblyInfoInputs.cache
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.AssemblyInfo.cs
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.csproj.CoreCompileInputs.cache
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.dll
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.pdb
+C:\Users\Arif Istiaq\source\repos\AbstractTask\AbstractTask\obj\Debug\netcoreapp3.1\AbstractTask.genruntimeconfig.cache
